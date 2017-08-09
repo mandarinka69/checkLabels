@@ -1,0 +1,172 @@
+
+19922221
+autoId: 19922221
+searchHttpReferer: 
+state_id: 10
+price: 141625
+owner_id: 4628130
+model_id: 32644
+marka_id: 9
+city_id: 10
+currency_id: 1
+year: 1999
+device: 1
+category_id: 1
+body_id: 3
+pageVersion: 2
+
+
+20134931
+autoId: 20134931
+searchHttpReferer: 
+state_id: 10
+price: 357647
+owner_id: 7056067
+model_id: 33135
+marka_id: 84
+city_id: 10
+currency_id: 1
+year: 2011
+device: 1
+category_id: 1
+body_id: 4
+pageVersion: 0
+
+
+20239262
+autoId: 20239262
+searchHttpReferer: 
+state_id: 23
+price: 644750
+owner_id: 5164407
+model_id: 35004
+marka_id: 79
+city_id: 23
+currency_id: 1
+year: 2007
+device: 1
+category_id: 1
+body_id: 5
+pageVersion: 2
+
+
+
+19593015
+autoId: 19593015
+searchHttpReferer: 
+state_id: 4
+price: 986250
+owner_id: 5341619
+model_id: 45131
+marka_id: 128
+city_id: 4
+currency_id: 3
+year: 2017
+device: 1
+category_id: 1
+body_id: 5
+pageVersion: 3
+
+
+19786317
+autoId: 19786317
+searchHttpReferer: 
+state_id: 10
+price: 747394
+owner_id: 940442
+model_id: 36565
+marka_id: 55
+city_id: 10
+currency_id: 1
+year: 2016
+device: 1
+category_id: 1
+body_id: 4
+pageVersion: 3
+
+
+20231188
+autoId: 20231188
+searchHttpReferer: 
+state_id: 11
+price: 264916
+owner_id: 6059628
+model_id: 715
+marka_id: 79
+city_id: 11
+currency_id: 1
+year: 2007
+device: 1
+category_id: 1
+body_id: 5
+pageVersion: 0
+
+
+20126893
+autoId: 20126893
+searchHttpReferer: 
+state_id: 11
+price: 514600
+owner_id: 4251373
+model_id: 96
+marka_id: 9
+city_id: 11
+currency_id: 1
+year: 2008
+device: 1
+category_id: 1
+body_id: 5
+pageVersion: 3
+
+
+20066962
+autoId: 20066962
+searchHttpReferer: 
+state_id: 4
+price: 748510
+owner_id: 3916367
+model_id: 428
+marka_id: 48
+city_id: 4
+currency_id: 1
+year: 2014
+device: 1
+category_id: 1
+body_id: 3
+pageVersion: 2
+
+
+18504590
+autoId: 18504590
+searchHttpReferer: 
+state_id: 4
+price: 692675
+owner_id: 3916367
+model_id: 428
+marka_id: 48
+city_id: 4
+currency_id: 1
+year: 2014
+device: 1
+category_id: 1
+body_id: 3
+pageVersion: 2
+
+
+19620946
+autoId: 19620946
+searchHttpReferer: 
+state_id: 10
+price: 0
+owner_id: 4994630
+model_id: 31886
+marka_id: 9
+city_id: 10
+currency_id: 1
+year: 2016
+device: 1
+category_id: 1
+body_id: 3
+pageVersion: 2
+
+

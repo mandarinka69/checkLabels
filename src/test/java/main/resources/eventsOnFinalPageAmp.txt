@@ -1,0 +1,5 @@
+category_id отсутствует
+body_id отсутствует
+proposal_id отсутствует
+
+

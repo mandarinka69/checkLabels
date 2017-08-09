@@ -1,0 +1,150 @@
+19718494
+user_id: 4931149
+screentype: 1
+browser_height: 513
+browser_width: 1025
+phone: 0683581511
+proposal_id: 19718494
+owner_id: 566248
+transport_type_id: 1
+marka_id: 59
+model_id: 2968
+event_id: 21
+[ip] отсутствует
+
+
+19922210
+user_id: 4931149
+screentype: 1
+browser_height: 513
+browser_width: 1025
+phone: 0683581511
+proposal_id: 19718494
+owner_id: 566248
+transport_type_id: 1
+marka_id: 59
+model_id: 2968
+event_id: 21
+[ip] отсутствует
+
+
+20152163
+user_id: 4931149
+screentype: 1
+browser_height: 513
+browser_width: 1025
+phone: 0683581511
+proposal_id: 19718494
+owner_id: 566248
+transport_type_id: 1
+marka_id: 59
+model_id: 2968
+event_id: 21
+[ip] отсутствует
+
+
+20050787
+user_id: 4931149
+screentype: 1
+browser_height: 513
+browser_width: 1025
+phone: 0683581511
+proposal_id: 19718494
+owner_id: 566248
+transport_type_id: 1
+marka_id: 59
+model_id: 2968
+event_id: 21
+[ip] отсутствует
+
+
+20230436
+user_id: 4931149
+screentype: 1
+browser_height: 513
+browser_width: 1025
+phone: 0683581511
+proposal_id: 19718494
+owner_id: 566248
+transport_type_id: 1
+marka_id: 59
+model_id: 2968
+event_id: 21
+[ip] отсутствует
+
+
+20143570
+user_id: 4931149
+screentype: 1
+browser_height: 513
+browser_width: 1025
+phone: 0683581511
+proposal_id: 19718494
+owner_id: 566248
+transport_type_id: 1
+marka_id: 59
+model_id: 2968
+event_id: 21
+[ip] отсутствует
+
+
+19620690
+user_id: 4931149
+screentype: 1
+browser_height: 513
+browser_width: 1025
+phone: 0683581511
+proposal_id: 19718494
+owner_id: 566248
+transport_type_id: 1
+marka_id: 59
+model_id: 2968
+event_id: 21
+[ip] отсутствует
+
+
+14962409
+user_id: 4931149
+screentype: 1
+browser_height: 513
+browser_width: 1025
+phone: 0683581511
+proposal_id: 19718494
+owner_id: 566248
+transport_type_id: 1
+marka_id: 59
+model_id: 2968
+event_id: 21
+[ip] отсутствует
+
+
+20241841
+user_id: 4931149
+screentype: 1
+browser_height: 513
+browser_width: 1025
+phone: 0683581511
+proposal_id: 19718494
+owner_id: 566248
+transport_type_id: 1
+marka_id: 59
+model_id: 2968
+event_id: 21
+[ip] отсутствует
+
+
+20236750
+user_id: 4931149
+screentype: 1
+browser_height: 513
+browser_width: 1025
+phone: 0683581511
+proposal_id: 19718494
+owner_id: 566248
+transport_type_id: 1
+marka_id: 59
+model_id: 2968
+event_id: 21
+[ip] отсутствует
+
+
